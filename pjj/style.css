@@ -1,0 +1,12 @@
+body{
+    
+    background: url(https://scontent.frak1-2.fna.fbcdn.net/v/t1.0-9/21616468_903717763116174_3590511301833744536_n.png?_nc_cat=110&_nc_oc=AQkVuaVJe2Ar0NuRPv0UiHy9K37oYKqVFx8ziQjuenF-mI_tuw4S-5GAjldNdcoOEEk&_nc_ht=scontent.frak1-2.fna&oh=0b0b711200db37c4bdb9dc4eb89e6dc4&oe=5E3E43AD);
+    background-size: cover;
+    background-repeat:no-repeat
+}
+table{
+    color: deeppink;
+}
+.titre{
+    color: gold;
+}
